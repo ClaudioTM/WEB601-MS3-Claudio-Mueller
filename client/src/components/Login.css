@@ -1,0 +1,19 @@
+.Login {
+    text-align: center;
+}
+
+.registration, .login {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    width: 250px;
+    height: 40px;
+}
+
+h1 {
+    text-align: center;
+}
